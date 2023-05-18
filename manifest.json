@@ -3,7 +3,7 @@
   "short_name": "PWA",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#3367D6",
+  "theme_color": "#d63367",
   "background_color": "#FFFFFF",
   "icons": [
     {
