@@ -1,15 +1,26 @@
-{
-  "name": "Mi PWA",
-  "short_name": "mdc",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#D63367",
-  "theme_color": "#000000",
+
+   
+ {
+  "short_name": "mundo de catalogos",
+  "name": "mdc",
   "icons": [
-    {
+  {
       "src": "https://i.ibb.co/Ph05wT8/photostudio-1684347771989.jpg",
-      "sizes": "192x192",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+	 {
+      "src": "https://i.ibb.co/Ph05wT8/photostudio-1684347771989.jpg",
+      "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": "movil/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#a1d9fc",
+  "theme_color": "#a1d9fc"
 }
+   
+      
+      
